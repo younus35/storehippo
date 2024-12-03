@@ -26,7 +26,7 @@ const sendPushNotification = async (registrationId, title, message) =>{
       }
 }
 
-const registrationId = "e66IV1x3RkKMe4SLufFKyP:APA91bGfgPguT99CU9qD-vKqmZCD-LYIsTPebQG89lnPfYymy80Mf1Vhz0Nfu4azlgdzVzz60BwPh4pCqw7yt5wmjvJhwaNU403txMgMQulb53y1sCAVvuw";
+const registrationId = "your id";
 const title="notification through nodejs";
 const message="this is notification send through the nodejs";
 
